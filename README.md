@@ -1,5 +1,5 @@
-# Triple-m Bookstore
-Welcome to Triple_m Bookstore, an online platform for book lovers to explore, browse, and purchase their favorite books. This project showcases a website featuring book categories, new arrivals, bestsellers, and an "Ask Us" section for community engagement.
+# Triple-m Bookstore 📚 
+Welcome to Triple-m Bookstore, an online platform for book lovers to explore, browse, and purchase their favorite books. This project showcases a website featuring book categories, new arrivals, bestsellers, and an "Ask Us" section for community engagement.
 
 ## Features
 
@@ -15,15 +15,13 @@ Links to Register and Log in pages for account management.
 - Add to Cart:
 Users can add books to their cart directly from any section.
 
-- "Ask Us" Section
-Community Q&A:
-Users can browse questions categorized as Technical or Non-Technical and view answers for common queries.
+- "Ask Us" Section Community Q&A: Users can browse questions categorized as Technical or Non-Technical and view answers for common queries.
 
-Question Submission:
-Users can add their own questions, categorized as:
+- Question Submission:
+  Users can add their own questions, categorized as:
 
-Technical Questions: Redirects to tech.html for submitting technical questions.
-Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
+-- Technical Questions: Redirects to tech.html for submitting technical questions.
+--Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
 
 ## Technologies Used
 HTML: For structuring the website.
