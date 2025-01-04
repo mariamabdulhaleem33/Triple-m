@@ -21,7 +21,7 @@ Users can add books to their cart directly from any section.
   Users can add their own questions, categorized as:
 
 - Technical Questions: Redirects to tech.html for submitting technical questions.
--- Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
+- Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
 
 ## Technologies Used
 - HTML: For structuring the website.
