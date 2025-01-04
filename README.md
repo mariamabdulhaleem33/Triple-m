@@ -20,13 +20,13 @@ Users can add books to their cart directly from any section.
 - Question Submission:
   Users can add their own questions, categorized as:
 
--- Technical Questions: Redirects to tech.html for submitting technical questions.
---Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
+- Technical Questions: Redirects to tech.html for submitting technical questions.
+-- Non-Technical Questions: Redirects to non-tech.html for submitting general inquiries.
 
 ## Technologies Used
-HTML: For structuring the website.
-CSS: For styling and layout.
-Font Awesome: For icons.
+- HTML: For structuring the website.
+- CSS: For styling and layout.
+- Font Awesome: For icons.
 
 ## Future Improvements
 - Dynamic Data: Use a backend and database for storing and retrieving questions, answers, and book details.
